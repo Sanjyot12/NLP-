@@ -33,6 +33,17 @@ Screenshots:
 
 3.SOAP note generation
 
-![SOAP note generation](https://github.com/user-attachments/assets/fdfd24cf-6ae2-4cf4-9d20-ca2a8a0dfe0f)
+![SOAP note generation](https://github.com/user-attachments/assets/fdfd24cf-6ae2-4cf4-9d20-ca2a8a0dfe0f) 
+
+METHODOLOGIES USED:
+
+1. Name Entity Recognition
+   NER is used to extract medical entities such as Symptons , Diagnoses ,Treament , Prognosis.
+
+2.Text Summarization
+  It converts long doctor patient conversation into concise medical reports using BART.
+
+3.Sentiment Analysis
+  It detects patients concerns ans reassurance needs by classifying sentiments using BioBERT model.
 
 
