@@ -21,4 +21,18 @@ Set up Instructions
 3.torch
 4.python 3.8+
 
-![Medical summarization](https://github.com/user-attachments/assets/2565cdc6-b862-486e-8edc-4bfbe87ae888)
+Screenshots:
+
+1.MEDICAL SUMMARIZATION
+
+![Medical summarization](https://github.com/user-attachments/assets/2565cdc6-b862-486e-8edc-4bfbe87ae888) 
+
+2.SENTIMENT ANALYSIS
+
+![Sentiment Analysis](https://github.com/user-attachments/assets/298339fd-2438-4a3d-a1ba-49937dc99170) 
+
+3.SOAP note generation
+
+![SOAP note generation](https://github.com/user-attachments/assets/fdfd24cf-6ae2-4cf4-9d20-ca2a8a0dfe0f)
+
+
