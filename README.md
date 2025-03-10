@@ -21,3 +21,4 @@ Set up Instructions
 3.torch
 4.python 3.8+
 
+![Medical summarization](https://github.com/user-attachments/assets/2565cdc6-b862-486e-8edc-4bfbe87ae888)
